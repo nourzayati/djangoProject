@@ -1,0 +1,16 @@
+username: youssef
+email adress : chaouchyoussef023@gmail.com
+password : chaouchdjango$1234
+
+
+register_user :
+
+username :  youssef1
+
+password : hellodjango123
+hellodjango123
+
+16/04
+
+new user : test@StaffUser
+pw : staff2025
